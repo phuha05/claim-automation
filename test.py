@@ -1,1 +1,2 @@
-tien_boi_thuong = 500000
+
+tien_boi_thuong = 1000000
